@@ -59,3 +59,9 @@ ___ Класс <span style="color:CadetBlue">Shop</span> содержит: ___
 >>
 
 ___ Класс <span style="color:CadetBlue">Main</span>, созданием экземпляра класса <span style="color:CadetBlue">Shop</span>, и вызывом основного метода <span style="color:Yellow">trade()</span> осуществляем имитацию торговли. ___
+
+Задачу выполнял: Козменко Сергей
+
+Поток: Разработчик — Программист. Специализация
+
+Группа: 5452
